@@ -1,8 +1,7 @@
 import discord
 import random
 from discord.ext import commands
-from discord import Member
-from discord.ext.commands import has_role
+
 
 client = commands.Bot(command_prefix='.')
 
@@ -50,4 +49,4 @@ async def clear(ctx, amount=5):
 
 
 
-client.run('NjU1NDI0MDQwMjU2OTI5ODAy.XfT5rQ.9Zks7ycKnN0AVy9CsRQHDupSnO0')
+client.run('NjU1NDI0MDQwMjU2OTI5ODAy.XfVCMQ.2JDnzGndWsv617OdJ-c9EcmKqjU')
