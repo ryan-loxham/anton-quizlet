@@ -49,4 +49,4 @@ async def clear(ctx, amount=5):
 
 
 
-client.run('NjU1NDI0MDQwMjU2OTI5ODAy.XfVCMQ.2JDnzGndWsv617OdJ-c9EcmKqjU')
+client.run('NjU1NDI0MDQwMjU2OTI5ODAy.XfVDHw.OUjbooQVE0pOd9gOdtQszUQvnMw')
